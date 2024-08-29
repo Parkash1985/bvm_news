@@ -1,4 +1,4 @@
 #EXTM3U 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/abc/main/bvm_news.png" group-title="News",BVM News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="News",BVM News
 http://103.50.7.46:1935/bvm/11/playlist.m3u8
