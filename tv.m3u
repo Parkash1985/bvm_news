@@ -6,3 +6,5 @@ http://103.50.7.46:1935/bvm/11/playlist.m3u8
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMrn6Ygm/SHRI-SHYAM.jpg" group-title="Music",Shri Shyam
 https://cloudcdn.in/live/shreeshyamtv/index.m3u8
+EXTINF:-1 tvg-logo="https://i.postimg.cc/VLPtmqts/AAJ-TAK.png" group-title="Music",Aaj tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
