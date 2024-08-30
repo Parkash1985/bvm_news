@@ -10,3 +10,5 @@ https://cloudcdn.in/live/shreeshyamtv/index.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLqZBd6k/SHOW-BOX.jpg" group-title="Music",Show Box
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0jJbq4s/9x-tasan.png" group-title="Music",9x Tasan
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
