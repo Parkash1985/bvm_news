@@ -12,3 +12,5 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0jJbq4s/9x-tasan.png" group-title="Music",9x Tasan
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv0SGsrF/DESI-TASAN.jpg" group-title="News",DESI TASAN
+https://cloudcdn.in/livetv/DesiTashan/index.m3u8
