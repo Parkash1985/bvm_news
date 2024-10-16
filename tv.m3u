@@ -19,4 +19,4 @@ rtmp://103.156.169.82/live/channel1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wv0SGsrF/DESI-TASAN.jpg" group-title="News",ABC Comedy
 rtmp://103.156.169.82/live/channel2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wv0SGsrF/DESI-TASAN.jpg" group-title="News",ABC Gold
-rtmp://103.156.169.82/live/channel1
+rtmp://103.156.169.82/live/channel3
