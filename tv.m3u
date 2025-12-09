@@ -18,7 +18,7 @@ https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/in
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/a578dc90-8ad4-4d06-a7ae-13e3325af2d3.jpg",7X Music
 https://cdn2.in/7xPunjabihls/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Nazra Tv.jpg",Nazra Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Nazra Tv.jpg"group-title="ENTERTENMENT",Nazra Tv
 https://epiconvh.akamaized.net/live/nazara/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Dangal Tv.jpg",Dangal Tv
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
@@ -54,3 +54,48 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Times Now Navbharat.jpg", Times Now Navbharat
 https://dp8vjjam4foas.cloudfront.net/master_3.m3u8
+#EXTINF:-1 tvg-name="fight-tv"tvg-id="68"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fight-tv.
+https://in1.sunilprasad.com.np/yuppLive/fight-tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9daAHhf.png", all jajeera
+https://live-hls-web-aje-fa.thehlive.com/AJE/03.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ishwar.jpg", BBC NEWS
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mlwpdv.png", NDTV 24*7
+https://in1.sunilprasad.com.np/yuppLive/ndtv-24x7/master.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mirror-now.png", MIRROR NOW
+https://in1.sunilprasad.com.np/yuppLive/mirror-now/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ishwar.jpg", NDTV PROFIT
+https://in1.sunilprasad.com.np/yuppLive/ndtv-profit/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ishwar.jpg", ABP NEWS
+https://in1.sunilprasad.com.np/yuppLive/abp-news/master.m3u8
+#EXTINF:-1 tvg-name="zee-news"tvg-id="13"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhihqo.png" ZEE NEWS
+https://in1.sunilprasad.com.np/yuppLive/zee-news/master.m3u8
+#EXTINF:-1 tvg-name="ndtv-india"tvg-id="2"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sltkhm.png"NDTV INDIA
+https://in1.sunilprasad.com.np/yuppLive/ndtv-india/master.m3u8
+#EXTINF:-1 tvg-name="News 24"tvg-id=""tvg-logo="https://i.imgur.com/x72O77X.png" NEWS 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-name="News 18 India"tvg-id=""tvg-logo="https://i.imgur.com/5VLCwbt.png" NEWS18 INDIA
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=3724000.m3u8
+#EXTINF:-1 tvg-name="tv9-bharatvarsh"tvg-id="34"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhgutv.png" TV9 BHARATWARSH
+https://in1.sunilprasad.com.np/yuppLive/tv9-bharatvarsh/master.m3u8
+#EXTINF:-1 tvg-name="india-tv"tvg-id="231"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/india-tv.png"INDIA TV
+https://in1.sunilprasad.com.np/yuppLive/india-tv/master.m3u8
+#EXTINF:-1 tvg-name="hindi-khabar"tvg-id="160"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindi-khabar.png" HINDI KHABAR
+https://in1.sunilprasad.com.np/yuppLive/hindi-khabar/master.m3u8
+#EXTINF:-1 tvg-name="zee-delhi-ncr-haryana"tvg-id="31"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yiuolu.png" ZEE DELHI NCR
+https://in1.sunilprasad.com.np/yuppLive/zee-delhi-ncr-haryana/master.m3u8
+#EXTINF:-1 tvg-name="total-tv"tvg-id="128"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/total-tv.png" TOTAL TV
+https://in1.sunilprasad.com.np/yuppLive/total-tv/master.m3u8
+#EXTINF:-1 tvg-name="khabrain-abhi-tak"tvg-id="158"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/qfurxt.png" KHABRE ABHI TAK
+https://in1.sunilprasad.com.np/yuppLive/khabrain-abhi-tak/master.m3u8
+#EXTINF:-1 tvg-name="9XM"tvg-id=""tvg-logo="https://i.imgur.com/F17QtN2.png" 9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+#EXTINF:-1 tvg-name="9X Jalwa"tvg-id=""tvg-logo="https://i.imgur.com/qubgOi5.png" 9X JALWA
+https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-name="mastiii"tvg-id="23"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xbhpwb.png" MASTIII
+https://in1.sunilprasad.com.np/yuppLive/mastiii/master.m3u8
+#EXTINF:-1 tvg-name="insync"tvg-id="126"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/insync.png" INSYNC
+https://in1.sunilprasad.com.np/yuppLive/insync/master.m3u8
+#EXTINF:-1 tvg-name="haryanvi-hits"tvg-id="192"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/haryanvi-hits.png" HARYANVI HITS
+https://in1.sunilprasad.com.np/yuppLive/haryanvi-hits/master.m3u8
+
