@@ -2,19 +2,19 @@
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="News",BVM News
 http://103.50.7.46:1935/bvm/11/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv0SGsrF/DESI-TASAN.jpg" group-title="Music",DESI TASAN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv0SGsrF/DESI-TASAN.jpg" group-title="MUSIC",DESI TASAN
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMrn6Ygm/SHRI-SHYAM.jpg" group-title="Music",Shri Shyam
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMrn6Ygm/SHRI-SHYAM.jpg" group-title="DIVOTIONAL",Shri Shyam
 https://cloudcdn.in/live/shreeshyamtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLPtmqts/AAJ-TAK.png" group-title="News",Aaj tak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLqZBd6k/SHOW-BOX.jpg" group-title="Music",Show Box
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLqZBd6k/SHOW-BOX.jpg" group-title="MUSIC",Show Box
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0jJbq4s/9x-tasan.png" group-title="Music",9x Tasan
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0jJbq4s/9x-tasan.png" group-title="MUSIC",9x Tasan
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0jJbq4s/9x-tasan.png" group-title="DIVOSNAL",SANSKAR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/104.jpg" group-title="DIVOTIONAL",SANSKAR
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0jJbq4s/9x-tasan.png" group-title="DIVOSNAL",SATSANG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/105.jpg" group-title="DIVOTIONAL",SATSANG
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/a578dc90-8ad4-4d06-a7ae-13e3325af2d3.jpg"group-title="MUSIC",7X Music
 https://cdn2.in/7xPunjabihls/live.m3u8
@@ -24,27 +24,27 @@ https://epiconvh.akamaized.net/live/nazara/master_1080.m3u8
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Dangal-2.jpg"group-title="ENTERTENMENT",Dangal-2
 https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_480p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/B4U Music 012.jpg"group-title="MUSIC", B4U Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/B4U Music.jpg"group-title="MUSIC", B4U Music
 https://cdn-2.pishow.tv/live/415/415_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PITAARA COMEDY.jpg"group-title="ENTERTENMENT",PITAARA COMEDY
 https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/11.jpg"group-title="MUSIC",Balle Balle
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/102.jpg",Aastha
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/102.jpg" group-title="DIVOTIONAL",Aastha
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/103.jpg",Aastha Bhajan
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/103.jpg" group-title="DIVOTIONAL",Aastha Bhajan
 https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Sadhna Tv.jpg", Sadhna Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Sadhna Tv.jpg" group-title="DIVOTIONAL", Sadhna Tv
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ishwar.jpg", Ishwar Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ishwar.jpg" group-title="DIVOTIONAL", Ishwar Tv
 https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Santvani tv.jpg",Santvani Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Santvani tv.jpg" group-title="DIVOTIONAL",Santvani Tv
 https://server.thelegitpro.in/santvanitv/santvanitv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Dharam Sandesh Tv.jpg", Dharam Sandesh Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Dharam Sandesh Tv.jpg" group-title="DIVOTIONAL", Dharam Sandesh Tv
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Darbar Sahib Live 013.jpg", Darbar Sahib Live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Darbar Sahib Live 013.jpg" group-title="DIVOTIONAL", Darbar Sahib Live
 http://146.59.253.52:8080/sgpclive/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Live Kabaddi 024.jpg", Kabaddi Live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Live Kabaddi 024.jpg"group-title="SPORTS", Kabaddi Live
 http://146.59.253.52:8080/Livekabaddi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Gnt News 038.jpg"group-title="News", Gnt News
 https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
@@ -54,19 +54,19 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Times Now Navbharat.jpg"group-title="News", Times Now Navbharat
 https://dp8vjjam4foas.cloudfront.net/master_3.m3u8
-#EXTINF:-1 tvg-name="fight-tv"tvg-id="68"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fight-tv.
+#EXTINF:-1 tvg-name="fight-tv"tvg-id="68"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fight-tv.png"group-title="SPORTS",FIGHT TV
 https://in1.sunilprasad.com.np/yuppLive/fight-tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9daAHhf.png"group-title="News", all jajeera
 https://live-hls-web-aje-fa.thehlive.com/AJE/03.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ishwar.jpg"group-title="News", BBC NEWS
+#EXTINF:-1 tvg-name="BBC NEWS Asia Pacific"tvg-id=""tvg-logo="https://i.imgur.com/vSz2WEp.png"group-title="News", BBC NEWS
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mlwpdv.png"group-title="News", NDTV 24*7
 https://in1.sunilprasad.com.np/yuppLive/ndtv-24x7/master.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mirror-now.png"group-title="News", MIRROR NOW
 https://in1.sunilprasad.com.np/yuppLive/mirror-now/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ishwar.jpg"group-title="News", NDTV PROFIT
+#EXTINF:-1 tvg-name="ndtv-profit"tvg-id="3"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ddsklc.png"group-title="News", NDTV PROFIT
 https://in1.sunilprasad.com.np/yuppLive/ndtv-profit/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ishwar.jpg"group-title="News", ABP NEWS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/101.jpg"group-title="News", ABP NEWS
 https://in1.sunilprasad.com.np/yuppLive/abp-news/master.m3u8
 #EXTINF:-1 tvg-name="zee-news"tvg-id="13"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhihqo.png"group-title="News", ZEE NEWS
 https://in1.sunilprasad.com.np/yuppLive/zee-news/master.m3u8
@@ -96,4 +96,6 @@ https://in1.sunilprasad.com.np/yuppLive/mastiii/master.m3u8
 https://in1.sunilprasad.com.np/yuppLive/insync/master.m3u8
 #EXTINF:-1 tvg-name="haryanvi-hits"tvg-id="192"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/haryanvi-hits.png"group-title="MUSIC", HARYANVI HITS
 https://in1.sunilprasad.com.np/yuppLive/haryanvi-hits/master.m3u8
+#EXTINF:-1 tvg-name="haryanvi-hits"tvg-id="192"tvg-logo="https://icon2.cleanpng.com/20180617/wtf/kisspng-television-channel-television-show-punjabi-languag-pocketnewsalert-5b2616f8e75031.4728199715292229049475.jpg"group-title="MUSIC",DESI CHANNEL
+https://main.clickstreamcdn.com/agm-dc/desi-channel/index.m3u8
 
