@@ -98,4 +98,46 @@ https://in1.sunilprasad.com.np/yuppLive/insync/master.m3u8
 https://in1.sunilprasad.com.np/yuppLive/haryanvi-hits/master.m3u8
 #EXTINF:-1 tvg-name="haryanvi-hits"tvg-id="192"tvg-logo="https://icon2.cleanpng.com/20180617/wtf/kisspng-television-channel-television-show-punjabi-languag-pocketnewsalert-5b2616f8e75031.4728199715292229049475.jpg"group-title="MUSIC",DESI CHANNEL
 https://main.clickstreamcdn.com/agm-dc/desi-channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjyHwd2k/total-tv.png" group-title="News",TOTALTV
+https://mumt04.tangotv.in/TOTALTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXNg35yx/gangour.png"group-title="ENTERTENMENT",GANGAUR TV
+https://mumt04.tangotv.in/GANGAURTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5VnfBW9/the-q.png"group-title="ENTERTENMENT",THE Q
+https://mumt05.tangotv.in/THEQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CrSLxg3/mh-one.jpg" group-title="News",MH ONE NEWS
+https://mumt04.tangotv.in/MHONENEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFK708HL/mh-1.jpg"group-title="MUSIC", MH ONE
+https://mumt04.tangotv.in/MHONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G90YhWRg/goldmine-bollywood.jpg"group-title="MOVIES", GOLDMINE BOLLYWOOD 
+https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjBD6Xhn/Goldmine.jpg"group-title="MOVIES", GOLDMINES
+https://mumt04.tangotv.in/GOLDMINES/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsQVvSKJ/PTC-CHAKDE.png"group-title="MUSIC", PTC CHAKDE
+https://mumt02.tangotv.in/PTCCHAKDE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6K29Z9z/PTC-MUSIC.jpg"group-title="MUSIC", PTC MUSIC
+https://mumt04.tangotv.in/PTCMUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cGJ2hb8/PTC-SIMRAN.jpg"group-title="MUSIC", PTC SIMRAN
+https://mumt05.tangotv.in/PTCSIMRAN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVshdr29/PTC-NEWS.png" group-title="News",PTC NEWS
+https://mumt02.tangotv.in/PTCNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJyf4r23/PTC-PUNJABI-GOLD.jpg"group-title="ENTERTENMENT",PTC PUNJABI GOLD
+https://mumt04.tangotv.in/PTCPUNJABIGOLD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYLMzZpp/PTC-PUNJABI.jpg"group-title="ENTERTENMENT",PTC PUNJABI
+https://mumt04.tangotv.in/PTCPUNJABI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1zPBXX6/DD-NATIONAL.jpg"group-title="ENTERTENMENT",DD NATIONAL
+https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pV9Pv9St/FOOD-DOOD.jpg"group-title="ENTERTENMENT",FOOD FOOD
+https://mumt03.tangotv.in/FOODFOOD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QM4rGskq/TABBER-HITS.jpg"group-title="MOVIES", TABBER HITS
+https://mumt04.tangotv.in/TABBARHITS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Qb6ZVkb/SHEMAROO-UMANG.jpg"group-title="ENTERTENMENT",SHEMAROO UMANG
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHdkKcF0/SHEMAROO-TV.jpg"group-title="ENTERTENMENT",SHEMAROO TV
+https://mumt02.tangotv.in/SHEMAROOTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Fp8NbBh/HARYANA-NEWS.jpg" group-title="News",HARYANA NEWS
+https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJVqLcSr/yrf.png"group-title="MUSIC", YRF MUSIC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT279rKB/SAGA-MUSIC.png"group-title="MUSIC", SAGA MUSIC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 
