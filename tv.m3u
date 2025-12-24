@@ -1,10 +1,10 @@
 #EXTM3U 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="News",BVM News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="LOCAL",BVM News
 http://103.50.7.46:1935/bvm/11/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv0SGsrF/DESI-TASAN.jpg" group-title="MUSIC",DESI TASAN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv0SGsrF/DESI-TASAN.jpg" group-title="LOCAL",DESI TASAN
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMrn6Ygm/SHRI-SHYAM.jpg" group-title="DIVOTIONAL",Shri Shyam
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMrn6Ygm/SHRI-SHYAM.jpg" group-title="LOCAL",Shri Shyam
 https://cloudcdn.in/live/shreeshyamtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLPtmqts/AAJ-TAK.png" group-title="News",Aaj tak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
@@ -176,7 +176,7 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/40f46fa036df45ee9d28b6eda42eb27c/in
 tps://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxfNxSCN/DD-HARYANA.jpg" group-title="News",DD HARYANA
 https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
-#EXTINF:-1 tvg-logo="https://ibb.co/WpMvPNQL" group-title="LOCAL",BUDDHA RAGNI
+#EXTINF:-1 tvg-logo="https://ibb.co/WpMvPNQL" group-title="LOCAL",B RAGNI
 http://103.220.29.158/B.RAGNI/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="LOCAL",BUDDHA CLASSIC
 http://103.220.29.158/B.CLASSIC/index.m3u8
@@ -188,9 +188,11 @@ http://103.220.29.158/B.MYCHOICE/index.m3u8
 http://103.220.29.158/B.BHAKTIBHAJAN/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="LOCAL",BUDDHA CINEMA
 http://103.220.29.158/B.CINEMA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="LOCAL",B RAGNI
-http://103.220.29.158/BUDDHA.RAGINI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="LOCAL",BUDDHA RAGNI
+http://103.220.29.158/BUDDHA.RAGNI/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="LOCAL",BUDDHA BHOJPURI
 http://103.220.29.158/B.BHOJPURI/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="LOCAL",HINDI MOVIES
 http://103.220.29.158/HINDI.MOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="https://ibb.co/WpMvPNQL" group-title="LOCAL",B KISSA
+http://103.220.29.158/B.KISSA/index.m3u8
