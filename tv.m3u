@@ -182,17 +182,17 @@ http://103.220.29.158/B.RAGNI/index.m3u8
 http://103.220.29.158/B.CLASSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6R1kR3X/HARYANVI-MOVIElogo.png" group-title="LOCAL",BUDDHA DEHATI FILM
 http://103.220.29.158/B.DEHATI.FILM/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="LOCAL",BUDDHA MYCHOICE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRD11cqm/MY-CHOICE.jpg" group-title="LOCAL",BUDDHA MYCHOICE
 http://103.220.29.158/B.MYCHOICE/index.m3u8
-#EXTINF:-1 tvg-logo="https://instasize.com/p/fb66e66d4b4a04afb82f6b0cdba2b8b5371ba58e12f156928f64a3f2d6ee82c2" group-title="LOCAL",BUDDHA BHAKT IBHAJAN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yQ11CW8/BHAKTI-DHARA.png" group-title="LOCAL",BUDDHA BHAKT IBHAJAN
 http://103.220.29.158/B.BHAKTIBHAJAN/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="LOCAL",BUDDHA CINEMA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjypnPrJ/B-CINEMA.jpg" group-title="LOCAL",BUDDHA CINEMA
 http://103.220.29.158/B.CINEMA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="LOCAL",BUDDHA RAGNI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NKLzqBY/RAGNI.jpg" group-title="LOCAL",BUDDHA RAGNI
 http://103.220.29.158/BUDDHA.RAGNI/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="LOCAL",BUDDHA BHOJPURI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qtpkz6H1/bhojpuri-cinema.png" group-title="LOCAL",BUDDHA BHOJPURI
 http://103.220.29.158/B.BHOJPURI/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="LOCAL",HINDI MOVIES
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZVFFVTq/hindi-movies.jpg" group-title="LOCAL",HINDI MOVIES
 http://103.220.29.158/HINDI.MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://ibb.co/WpMvPNQL" group-title="LOCAL",B KISSA
 http://103.220.29.158/B.KISSA/index.m3u8
