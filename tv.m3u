@@ -94,7 +94,7 @@ https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg0128
 https://in1.sunilprasad.com.np/yuppLive/mastiii/master.m3u8
 #EXTINF:-1 tvg-name="insync"tvg-id="126"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/insync.png"group-title="MUSIC", INSYNC
 https://in1.sunilprasad.com.np/yuppLive/insync/master.m3u8
-#EXTINF:-1 tvg-name="haryanvi-hits"tvg-id="192"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/haryanvi-hits.png"group-title="MUSIC", HARYANVI HITS
+#EXTINF:-1 tvg-name="haryanvi-hits"tvg-id="192"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/haryanvi-hits.png"group-title="LOCAL", HARYANVI HITS
 https://in1.sunilprasad.com.np/yuppLive/haryanvi-hits/master.m3u8
 #EXTINF:-1 tvg-name="haryanvi-hits"tvg-id="192"tvg-logo="https://icon2.cleanpng.com/20180617/wtf/kisspng-television-channel-television-show-punjabi-languag-pocketnewsalert-5b2616f8e75031.4728199715292229049475.jpg"group-title="MUSIC",DESI CHANNEL
 https://main.clickstreamcdn.com/agm-dc/desi-channel/index.m3u8
@@ -173,7 +173,7 @@ https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/E24LiveB/master_1.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Divya Channel.jpg" group-title="DIVOTIONAL",DIVYA
 https://d2lk5u59tns74c.cloudfront.net/out/v1/40f46fa036df45ee9d28b6eda42eb27c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SshRvhGF/DD-SPORTS.png" group-title="SPORTS",DD SPORTS
-tps://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxfNxSCN/DD-HARYANA.jpg" group-title="News",DD HARYANA
 https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJvjq810/29-logo.png" group-title="LOCAL",B RAGNI
