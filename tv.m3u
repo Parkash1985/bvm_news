@@ -136,9 +136,9 @@ https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
 https://mumt02.tangotv.in/SHEMAROOTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Fp8NbBh/HARYANA-NEWS.jpg" group-title="News",HARYANA NEWS
 https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJVqLcSr/yrf.png"group-title="MUSIC", YRF MUSIC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJVqLcSr/yrf.png"group-title="LOCAL", YRF MUSIC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT279rKB/SAGA-MUSIC.png"group-title="MUSIC", SAGA MUSIC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT279rKB/SAGA-MUSIC.png"group-title="LOCAL", SAGA MUSIC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3jdbYbG/DD-NEWS.png" group-title="News",DD NEWS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
@@ -176,11 +176,11 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/40f46fa036df45ee9d28b6eda42eb27c/in
 tps://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxfNxSCN/DD-HARYANA.jpg" group-title="News",DD HARYANA
 https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
-#EXTINF:-1 tvg-logo="https://ibb.co/WpMvPNQL" group-title="LOCAL",B RAGNI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJvjq810/29-logo.png" group-title="LOCAL",B RAGNI
 http://103.220.29.158/B.RAGNI/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="LOCAL",BUDDHA CLASSIC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwtht87z/1-logo.png" group-title="LOCAL",BUDDHA CLASSIC
 http://103.220.29.158/B.CLASSIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="LOCAL",BUDDHA DEHATI FILM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6R1kR3X/HARYANVI-MOVIElogo.png" group-title="LOCAL",BUDDHA DEHATI FILM
 http://103.220.29.158/B.DEHATI.FILM/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Parkash1985/bvm_news/main/bvm_news.png" group-title="LOCAL",BUDDHA MYCHOICE
 http://103.220.29.158/B.MYCHOICE/index.m3u8
@@ -196,3 +196,29 @@ http://103.220.29.158/B.BHOJPURI/index.m3u8
 http://103.220.29.158/HINDI.MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://ibb.co/WpMvPNQL" group-title="LOCAL",B KISSA
 http://103.220.29.158/B.KISSA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9g7Q8cM/B4U-BHOJPURI.jpg" group-title="MOVIES",B4U BHOJPURI
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NDXf4Nw/DD-BHARTI.jpg" group-title="ENTERTENMENT",DD BHARTI
+https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2KS5SKs/FASHION-TV.png" group-title="OTHER",FASHION TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkfMTbfv/DABANG.jpg" group-title="MUSIC",DABANG
+https://in1.sunilprasad.com.np/yuppLive/dabangg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCD1MdTw/JINWANI.jpg" group-title="DIVOTIONAL",JINVANI
+https://in1.sunilprasad.com.np/yuppLive/jinvani-channel/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB10vTZs/PEACE-OF-MIND.jpg" group-title="DIVOTIONAL",PEACE OF MIND
+https://in1.sunilprasad.com.np/yuppLive/peace-of-mind/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ8G69Lv/WOW-CINEMAjfif.jpg" group-title="MOVIES",WOW CINEMA
+https://cdn-2.pishow.tv/live/231/231_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9FDMr7/MANORANJAN-MOVIES.jpg" group-title="MOVIES",MANORANJAN MOVIES
+https://mumt04.tangotv.in/MANORANJANMOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmmHxCtT/STELBIRD-MUSIC.jpg" group-title="LOCAL",STIELBIRD MUSIC
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3gRd7Cm/INDOZ-TV.png" group-title="LOCAL",INDOZ TV
+https://cdn2.in/IndozeTvhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk99k86H/VISION-TV.jpg" group-title="LOCAL",VISION BEATS
+http://a-edge.bliscdn.com/Visionbeats/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xds7q46n/VISION-PUNJABI.jpg" group-title="LOCAL",VISION PUNJABI MUSIC
+http://a-edge.bliscdn.com/Visionpunjabmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKWRhcdV/BOLLYWOOD-MOVIES.png" group-title="LOCAL",BOLLYWOOD MOVIES
+https://dbrb49pjoymg4.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/7be04f99-5bf2-430b-86dd-4e1577159f1b/4.m3u8
