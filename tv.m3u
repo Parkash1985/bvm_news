@@ -177,25 +177,25 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxfNxSCN/DD-HARYANA.jpg" group-title="News",DD HARYANA
 https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgcQ1qbn/Haryanvi-Mix-copy.png" group-title="LOCAL",BUDDA HARYANVI MIX
-http://103.220.29.158/B.RAGNI/index.m3u8
+http://103.220.29.158:8080/B.RAGNI/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RCcymQWX/B-classic-copy.png" group-title="LOCAL",BUDDHA CLASSIC
-http://103.220.29.158/B.CLASSIC/index.m3u8
+http://103.220.29.158:8080/B.CLASSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6R1kR3X/HARYANVI-MOVIElogo.png" group-title="LOCAL",BUDDHA DEHATI FILM
-http://103.220.29.158/B.DEHATI.FILM/index.m3u8
+http://103.220.29.158:8080/B.DEHATI.FILM/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpH6nWDt/B-MY-CHOICE-copy.png" group-title="LOCAL",BUDDHA MYCHOICE
-http://103.220.29.158/B.MYCHOICE/index.m3u8
+http://103.220.29.158:8080/B.MYCHOICE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPzNMpGc/B-Bhakti-copy.png" group-title="LOCAL",BUDDHA BHAKT IBHAJAN
-http://103.220.29.158/B.BHAKTIBHAJAN/index.m3u8
+http://103.220.29.158:8080/B.BHAKTIBHAJAN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4Wqtkp5/Cinema-copy.png" group-title="LOCAL",BUDDHA CINEMA
-http://103.220.29.158/B.CINEMA/index.m3u8
+http://103.220.29.158:8080/B.CINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4nkS6y2N/Ragni-copy.png" group-title="LOCAL",BUDDHA RAGNI
-http://103.220.29.158/BUDDHA.RAGNI/index.m3u8
+http://103.220.29.158:8080/BUDDHA.RAGNI/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwvB173L/B-bhojpuri-copy.png" group-title="LOCAL",BUDDHA BHOJPURI
-http://103.220.29.158/B.BHOJPURI/index.m3u8
+http://103.220.29.158:8080/B.BHOJPURI/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90jkTznq/B-MOVIES-copy.png" group-title="LOCAL",HINDI MOVIES
-http://103.220.29.158/HINDI.MOVIES/index.m3u8
+http://103.220.29.158:8080/HINDI.MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://ibb.co/WpMvPNQL" group-title="LOCAL",B KISSA
-http://103.220.29.158/B.KISSA/index.m3u8
+http://103.220.29.158:8080/B.KISSA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9g7Q8cM/B4U-BHOJPURI.jpg" group-title="MOVIES",B4U BHOJPURI
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NDXf4Nw/DD-BHARTI.jpg" group-title="ENTERTENMENT",DD BHARTI
